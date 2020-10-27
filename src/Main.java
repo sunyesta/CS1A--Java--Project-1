@@ -11,14 +11,14 @@ public class Main{
 		
 		
 		int[]randomNumberArray = new int[arrayLength];
-		/*
+
 		for(int i=0;i<randomNumberArray.length;i++){
 			randomNumberArray[i] = (int)(Math.random()*(10)+1);
 		}
 		
 		for(int i=0;i<randomNumberArray.length;i++){
 			System.out.println(randomNumberArray[i]);
-		}*/
+		}
 		System.out.println(3d);
 	}
 }
