@@ -19,7 +19,7 @@ public class Main{
 		for(int i=0;i<randomNumberArray.length;i++){
 			System.out.println(randomNumberArray[i]);
 		}
-		System.out.println(3d);
+
 	}
 }
 
